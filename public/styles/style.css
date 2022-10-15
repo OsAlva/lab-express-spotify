@@ -1,0 +1,9 @@
+body{
+    background-image: url('../images/spotify-background.jpeg');
+   display: flex;
+   justify-content: center;
+}
+
+form{
+    margin:300px 0;
+}
